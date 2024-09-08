@@ -3,7 +3,6 @@
 ## 2000s: Traditional Deployment Era
 
 During the 2000s, we experienced what is known as the "Traditional Deployment Era". This period was characterized by:
-
 - **On-premises Deployments**: Companies managed their own data centers or used colocation services.
 - **Teams of Sysadmins**: Dedicated teams of system administrators were responsible for provisioning and managing fleets of servers, which was often a labor-intensive and immature process.
 - **Bare Metal Servers**: Applications ran directly on physical servers.
